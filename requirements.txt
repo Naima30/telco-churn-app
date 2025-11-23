@@ -7,3 +7,5 @@ scikit-learn
 joblib
 xgboost
 pathlib
+openpyxl
+
