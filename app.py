@@ -40,7 +40,7 @@ sns.set_style("darkgrid")
 # -------------------------
 DEFAULT_DATA_PATH = r"C:/Users/naima/OneDrive/ドキュメント/GT/Telco_customer_churn.xlsx"
 MODEL_SAVE_DIR = Path("/mnt/data")
-MODEL_SAVE_DIR.mkdir(parents=True, exist_ok=True)
+
 
 # -------------------------
 # Styling
